@@ -12,7 +12,7 @@ Manual de Instalação do Sistema Operacional PUPPY
 ![image](https://github.com/GiovannaFP/Manual-PUPPY-os/assets/166856407/79d4445d-2321-4979-bb9e-e8e7b74878bf)
 ### ***Treceira etapa;***
 ### Ao avançar da segunda etapa, aparecerão alguns POP-UPS, tais como:
-### **_POP-UP de pacote de Língua_**
+###**_POP-UP de pacote de Língua_**
 ### Dependendo do idioma que você escolher, poderá existir a necessidade da instalação de um pacote de língua. Nesse caso, siga as instruções que serão fornecidas.
 ![image](https://github.com/GiovannaFP/Manual-PUPPY-os/assets/166856407/31f7c815-907b-472c-8117-864575024bee)
 ### Aqui, você pode escolher quais conexões podem passar pelo seu Firewall, o seja, o sistema de segurança. Se isso lhe for interenssante, desamarque a segunda opção e selecione as conexões e prossiga, caso contrário, apenas precione "Apply".
