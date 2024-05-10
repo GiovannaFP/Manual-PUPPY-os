@@ -6,7 +6,7 @@ Manual de Instalação do Sistema Operacional PUPPY
 ### Caso tudo ocorra conforme o esperado, o carregamento se iniciará e essa imagem deverá aparecer antes de prosseguir para a segunda etapa.
 ![image](https://github.com/GiovannaFP/Manual-PUPPY-os/assets/166856407/b079ddb8-7f00-424f-991f-2bcb07ecc4a4)
 ### ***Segunda etapa;***
-###Nessa etapa, é importante estar atento(a), pois aqui9 é onde você irá configurar o idioma, horário e teclado, além de funções de Gráficos e Network. A tela estará assim inicialmente:
+### Nessa etapa, é importante estar atento(a), pois aqui9 é onde você irá configurar o idioma, horário e teclado, além de funções de Gráficos e Network. A tela estará assim inicialmente:
 ![image](https://github.com/GiovannaFP/Manual-PUPPY-os/assets/166856407/06fd3d3a-e6ff-426e-9766-95a015ef99db)
 ### Então, selecione as opções que mais se adequam a ti clique em "OK" quando concluir. 
 ![image](https://github.com/GiovannaFP/Manual-PUPPY-os/assets/166856407/79d4445d-2321-4979-bb9e-e8e7b74878bf)
